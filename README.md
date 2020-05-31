@@ -41,5 +41,6 @@ I made this repository for convenience only.
 ## License
 
 Except for the work done by the glad authors which has [its own license](https://github.com/Dav1dde/glad/blob/master/LICENSE),
-you may use this repository however you like.  
+you may use this repository however you like.
+
 See [UNLICENSE](UNLICENSE) for more information.
