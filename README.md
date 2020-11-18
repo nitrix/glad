@@ -1,4 +1,4 @@
-# glad-cmake
+# glad
 
 Glad-generated bindings for OpenGL with core profile and CMake support.
 
