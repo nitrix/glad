@@ -4,9 +4,15 @@ Glad-generated bindings for OpenGL with core profile and CMake support.
 
 | Component  | Version   |
 |------------|-----------|
-| Glad       |    0.1.33 |
+| Glad       |    0.1.34 |
 | OpenGL     |       4.6 |
 | CMake      |       3.0 |
+
+
+## Extensions
+
+    * GL_ARB_texture_filter_anisotropic
+    * GL_EXT_texture_filter_anisotropic
 
 ## Usage
 
