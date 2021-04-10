@@ -5,8 +5,8 @@ Glad-generated bindings for OpenGL with core profile and CMake support.
 | Component  | Version   |
 |------------|-----------|
 | Glad       |    0.1.34 |
-| OpenGL     |       4.6 |
-| CMake      |       3.0 |
+| OpenGL     |    <= 4.6 |
+| CMake      |    >= 3.0 |
 
 
 ## Extensions
