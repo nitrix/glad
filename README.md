@@ -13,7 +13,7 @@ Glad-generated bindings for OpenGL with core profile and CMake support.
 
 * GL_ARB_debug_output
 * GL_ARB_texture_filter_anisotropic
-* GL_EXT_texture_filter_anisotropic
+* GL_ARB_color_buffer_float
 
 ## Usage
 
