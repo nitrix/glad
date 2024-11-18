@@ -2,15 +2,15 @@
 
 Glad-generated bindings for OpenGL with core profile and CMake support.
 
-| Component  | Version   |
-|------------|-----------|
-| Glad       |    0.1.34 |
-| OpenGL     |    <= 4.6 |
-| CMake      |    >= 3.0 |
-
+| Component | Version |
+|-----------|---------|
+| Glad      | 0.1.36  |
+| OpenGL    | <= 4.6  |
+| CMake     | >= 3.16 |
 
 ## Extensions
 
+* GL_KHR_debug
 * GL_ARB_debug_output
 * GL_ARB_texture_filter_anisotropic
 * GL_ARB_color_buffer_float
