@@ -1,11 +1,12 @@
 # glad
 
-Glad-generated bindings for OpenGL with core profile and CMake support.
+Glad generated bindings for OpenGL with CMake support.
 
 | Component | Version |
 |-----------|---------|
 | Glad      | 0.1.36  |
 | OpenGL    | <= 4.6  |
+| OpenGL ES | <= 3.2  |
 | CMake     | >= 3.16 |
 
 ## Extensions
